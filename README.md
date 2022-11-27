@@ -1,0 +1,2 @@
+# Python-Practices
+Problem solvings 
